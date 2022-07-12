@@ -1,6 +1,6 @@
 # carrier-connect
 
-A Python solution to control Carrier-branded air conditioner
+A Python solution to control [Carrier](https://en.wikipedia.org/wiki/Carrier_Global) air conditioner
 
 ## Setup Instructions
 * Open `.env`
