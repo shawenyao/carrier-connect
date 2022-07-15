@@ -39,7 +39,7 @@ def control_ac(on = False):
 
 if __name__ == '__main__':
 
-    if(len(sys.argv) < 2):
+    if len(sys.argv) < 2:
         # turn off ac
         control_ac()
         
